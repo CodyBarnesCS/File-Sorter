@@ -1,2 +1,2 @@
 # File-Sorter
-File Sorter that creates folders for each file type and moves those files into the appropriate folder.
+Python script that sorts files in a specified directory based on their file extensions, creating separate folders for each extension and moving the corresponding files into their respective folders.
